@@ -1,0 +1,33 @@
+
+body{
+
+    background-color:rgba(27, 27, 50, 0.8);
+  }
+  
+  h1,p{
+    text-align:center;
+  }
+  
+  #name-label,#name,#email-label,#email{
+    display:block;
+  }
+  #name,#email{
+    width:90%;
+  }
+  #number-label,#number, #drop-down,#dropdown{
+    display:block;
+  }
+  #number,#dropdown{
+    width:90%
+  }
+  
+  input[type="radio"]{
+    display:block;
+  }
+  
+  
+  
+  label{
+    display:block;
+  }
+  
